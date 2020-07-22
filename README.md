@@ -30,8 +30,12 @@ pandevim/web
 
 ## Development
 ```bash
+/ramabana $ docker exec -it ramabana bash
 /ramabana $ yarn dev
-/ramabana $ yarn build
 ```
 
-
+## Build
+```bash
+/ramabana $ docker exec -it ramabana bash
+/ramabana $ yarn build
+```
