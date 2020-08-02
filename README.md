@@ -1,8 +1,6 @@
 # Ramabana
 
-
-
-
+Quiz app
 
 
 ## Setup
