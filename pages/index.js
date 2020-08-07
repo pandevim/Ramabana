@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://ramabana.vercel.app/">Ramabana!</a>
+          Welcome to <a href="https://ramabana.vercel.app/">Rāmabāṇa!</a>
         </h1>
       </main>
 

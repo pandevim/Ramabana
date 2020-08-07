@@ -1,4 +1,4 @@
-# Ramabana
+# Rāmabāṇa
 
 Quiz app
 
